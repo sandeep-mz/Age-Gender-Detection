@@ -1,0 +1,14 @@
+1- Additional Python Libraries Required (OpenCV,argparse).
+
+2- The contents of this Project :
+		opencv_face_detector.pbtxt
+		opencv_face_detector_uint8.pb
+		age_deploy.prototxt
+		age_net.caffemodel
+		gender_deploy.prototxt
+		gender_net.caffemodel
+		a few pictures to try the project on
+		detect.py
+3-Usage:
+		Open your Command Prompt or Terminal and change directory to the folder where all the files are present.
+		Detecting Gender and Age of face in Image Use Command : python detect.py
